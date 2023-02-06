@@ -1,0 +1,13 @@
+{
+    "name": "com.graywolves.nicevibrations",
+    "displayName": "NiceVibrations",
+    "description": "NiceVibrations With Unity",
+    "version": "1.0.0",
+    "unity": "2021.3",
+    "category": "graywolves",
+    "license": "MIT",
+    "keywords": [
+        "unity", "vibration"
+    ],
+    "dependencies": {}
+}
