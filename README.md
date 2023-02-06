@@ -18,3 +18,5 @@ MMVibrationManager.SetHapticsActive(true);
 MMVibrationManager.Haptic(HapticTypes.MediumImpact);
 ```
 - HapticTypes include (``Selection, Success, Warning, Failure, LightImpact, MediumImpact, HeavyImpact, RigidImpact, SoftImpact, None``). You should choose the haptic style that suits your purpose
+
+(Package is attached at release)
