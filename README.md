@@ -1,7 +1,7 @@
 # Nice-Vibrations
 Vibration for game unity
 ```
-"com.graywolves.nicevibrations": "https://github.com/GrayWolves/Nice-Vibrations.git#1.0.0",
+"com.graywolves.nicevibrations": "https://github.com/GrayWolves/Nice-Vibrations.git#1.0.1",
 ```
 How to use?
 - You need to add the above link in manifest.json in folder Package
